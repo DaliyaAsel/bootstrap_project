@@ -1,7 +1,6 @@
 # bootstrap_project
 Simple project with bootstrap    
-### Stack:    
-:green_circle: JS       
+### Stack:        
 :green_circle: CSS3    
 :green_circle: HTML5    
 :green_circle: Bootstrap4    
