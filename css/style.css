@@ -14,6 +14,11 @@ header {
   background-size: cover;
   height: auto;
   padding: 0 0 30px;
+  object-fit: cover;
+}
+
+a {
+  font-size: 18px;
 }
 
 .navbar-brand {
@@ -69,14 +74,14 @@ header {
 }
 
 .row-man {
- position: relative;
+  position: relative;
 }
 
 .row-quation {
-margin-top: -200px;
+  margin-top: -200px;
 }
 
-.col-quation1{
+.col-quation1 {
   margin-top: -150px;
 }
 
