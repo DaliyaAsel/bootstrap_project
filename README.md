@@ -5,5 +5,4 @@ Simple project with bootstrap
 :green_circle: CSS3    
 :green_circle: HTML5    
 :green_circle: Bootstrap4    
-
-
+![Uploading 96lyltBLo6.gif…]()
