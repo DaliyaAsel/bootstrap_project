@@ -1,0 +1,169 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  min-width: 400px;
+}
+
+header {
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: auto;
+  padding: 0 0 30px;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.item-img {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.item-title {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.item-descr h5 {
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.service h3,
+.service h4,
+.service h5 {
+  color: #626780;
+}
+
+.header-tittle h2,
+.header-descr h4 {
+  color: #696a86;
+}
+
+.header-descr h4 {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+
+.support-title h4,
+.support-descr h5 {
+  color: #626780;
+}
+
+.quation {
+  padding: 25px 35px;
+  border-radius: 23px;
+  box-shadow: 5px 3px 15px #9b9bca;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+.row-man {
+ position: relative;
+}
+
+.row-quation {
+margin-top: -200px;
+}
+
+.col-quation1{
+  margin-top: -150px;
+}
+
+
+.faq h3 {
+  padding-top: 69px;
+  position: relative;
+}
+
+.faq h3::before {
+  content: '';
+  position: absolute;
+  border-radius: 20px;
+  top: 0;
+  left: 0;
+  border-top: 6px solid #EE4D47;
+  width: 65px;
+}
+
+.img-wrap {
+  width: 80%;
+  margin: 50px auto;
+}
+
+.card {
+  border-radius: 7px;
+  box-shadow: 5px 3px 15px #9b9bca;
+}
+
+.title>h3,
+.descr-feature {
+  color: #626780;
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+.card-text {
+  font-size: 1.2rem;
+}
+
+.btn-card_feature {
+  position: absolute;
+  margin-left: -95px;
+}
+
+.red {
+  color: white;
+  background-color: red !important;
+}
+
+.btn:hover {
+  color: white;
+}
+
+.form-join {
+  border-radius: 7px;
+  box-shadow: 5px 3px 15px #9b9bca;
+  padding: 4rem 4rem 2rem 4rem;
+}
+
+.btn-form {
+  padding: .3rem 4rem .3rem 4rem;
+}
+
+.massage a {
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #9B9BCA;
+}
+
+.footer-links {
+  padding: 2rem 4rem 0rem 4rem;
+}
+
+.footer-links h6,
+.footer-links a,
+.copy-footer {
+  color: white;
+}
+
+.btn {
+  background-color: #9B9BCA;
+  color: white;
+}
